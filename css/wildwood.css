@@ -1,0 +1,25 @@
+html {
+  background: url('../images/half_gallon_jar_lamp_reg_background.jpg') no-repeat center center fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+
+body {
+  background: none;
+  padding-bottom: 0;
+}
+
+header.main {
+  text-align: center;
+  padding-top: 200px;
+}
+
+.background-overlay {
+  background-color: rgba(255, 255, 255, 0.85);
+}
+
+.container.main {
+  margin-top: 200px;
+}
